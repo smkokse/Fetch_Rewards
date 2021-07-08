@@ -1,6 +1,6 @@
 # Fetch_Rewards
 
-**Requirements
+**Requirements**
 
 1. Eclipse Enterprise Edition(EE)
 2. Java 8
@@ -8,7 +8,7 @@
 4. JSON Library(jar)-json-20180813.jar
 5. Servlet Api Library(jar)-servlet-api.jar
 
-**SetUp:
+**SetUp**
 
 **TOMCAT SetUp:**
 Download Apache Tomcat 9 from https://tomcat.apache.org/download-90.cgi 
