@@ -1,4 +1,6 @@
 # Fetch_Rewards
+NOTE: This project is completed Developed and tested on Eclipse Enterprise Edition. While using this application Eclipse IDE it is recommended.
+NOTE: If you are using any other IDE such as IntelliJ, you might have to customize the build configuration according to your Machine.
 
 **Requirements**
 
