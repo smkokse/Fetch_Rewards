@@ -13,6 +13,7 @@ NOTE: If you are using any other IDE such as IntelliJ, you might have to customi
 **SetUp**
 
 **TOMCAT SetUp:**
+
 Download Apache Tomcat 9 from https://tomcat.apache.org/download-90.cgi 
 Extract the Tomcat to the desired path.
 
