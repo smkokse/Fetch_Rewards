@@ -1,5 +1,6 @@
 # Fetch_Rewards
 NOTE: This project is completed Developed and tested on Eclipse Enterprise Edition. While using this application Eclipse IDE it is recommended.
+
 NOTE: If you are using any other IDE such as IntelliJ, you might have to customize the build configuration according to your Machine.
 
 **Requirements**
@@ -12,18 +13,23 @@ NOTE: If you are using any other IDE such as IntelliJ, you might have to customi
 
 **SetUp**
 
+**Eclipse SetUp:**
+
+Download the Eclipse from https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-06/R/eclipse-inst-jre-win64.exe
+
+Choose Eclipse Enterprise Java and Web Dev.
+
 **TOMCAT SetUp:**
 
-Download Apache Tomcat 9 from https://tomcat.apache.org/download-90.cgi 
-Extract the Tomcat to the desired path.
-
 Open Eclipse. Navigate to server Tab.
+
 Right Click. New -> Server
-Select Apache Tomcat 9 from View.
-Click on Configure RunTime. -> Click on the Add Button in Preferences Window.
-Select Apache Tomcat v9.0 as runtime. -> Next.
-Select Tomcat Installation directory(Navigate the tomcat directory path extracted earlier).
-Select Finish.
+
+CLick on Apache and choose Tomcat v9.0 Server -> Next.
+
+Select Download and Install Tomcat.
+
+Finish
 
 Download the json library jar(json-20180813.jar) from the provided library folder at the same level as this Readme file on the Github.
 Download the Servlet Api Library(servlet-api.jar) from the provided library folder at the same level as this Readme file on the Github.
