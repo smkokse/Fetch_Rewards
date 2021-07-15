@@ -48,12 +48,12 @@ Import the project using git.
 
 Select Import from File. Select Git.
 Clone URI.
+
 Copy URI and paste into URI tab. NEXT.
 
-Open the project in Eclipse.
+
 Right click on Project. -> Run As -> Run on Server.
 Select Tomcat Setup earlier and click next.
-Select the project and Click Add.
 Click Finish
 
 Project Runs on Below URL:
