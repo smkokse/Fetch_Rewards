@@ -19,6 +19,8 @@ Download the Eclipse from https://www.eclipse.org/downloads/download.php?file=/o
 
 Choose Eclipse Enterprise Java and Web Dev.
 
+Install.
+
 **TOMCAT SetUp:**
 
 Open Eclipse. Navigate to server Tab.
@@ -34,7 +36,7 @@ Finish
 Download the json library jar(json-20180813.jar) from the provided library folder at the same level as this Readme file on the Github.
 Download the Servlet Api Library(servlet-api.jar) from the provided library folder at the same level as this Readme file on the Github.
 
-Copy the json library file and Servlet Api Library files to Tomcat lib folder.
+Copy the json library file and Servlet Api Library files to Tomcat lib and bin folder.
 
 **Project Execution**
 
