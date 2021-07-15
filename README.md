@@ -40,6 +40,12 @@ Copy the json library file and Servlet Api Library files to Tomcat lib and bin f
 
 **Project Execution**
 
+Import the project using git.
+
+Select Import from File. Select Git.
+Clone URI.
+
+
 Open the project in Eclipse.
 Right click on Project. -> Run As -> Run on Server.
 Select Tomcat Setup earlier and click next.
