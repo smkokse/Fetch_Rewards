@@ -29,7 +29,11 @@ Right Click. New -> Server
 
 CLick on Apache and choose Tomcat v9.0 Server -> Next.
 
-Select Download and Install Tomcat.
+Select Download and Install Tomcat.(wait for few seconds it will download the tomcat).
+
+NEXT.
+
+Add FetchRewards to configured.
 
 Finish
 
@@ -44,7 +48,7 @@ Import the project using git.
 
 Select Import from File. Select Git.
 Clone URI.
-
+Copy URI and paste into URI tab. NEXT.
 
 Open the project in Eclipse.
 Right click on Project. -> Run As -> Run on Server.
